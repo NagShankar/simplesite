@@ -1,1 +1,1 @@
-# simplesite
+# simple site
