@@ -2,4 +2,4 @@
 
 ## It's just a plain HTML template 
 
-It includes dummy contact page
+It includes unlinked contact page
